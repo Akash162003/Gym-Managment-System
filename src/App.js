@@ -11,8 +11,8 @@ import  MemberDash from './components/MemberDash';
 import  AdminDash from './components/AdminDash';
 
 import  Navbar from './components/Navbar';
-import  Footer from './components/Footer';
-import  Home from './components/Home';
+import  Footer from './components/footer.js';
+import  Home from './components/home.js';
 // import  Error from './components/Error';
 import  Aboutus from './components/Aboutus';
 import  Contactus from './components/Contactus';
